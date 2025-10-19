@@ -1,0 +1,13 @@
+bibentry(
+  bibtype  = "article",
+  header   = "To cite deforestable in publications, please use",
+  author   = "Jesper Muren and Vilhelm Niklasson and Dmitry Otryakhin and Maxim Romashin",
+  title    = "Automatic deforestation detectors based on frequentist statistics and their extensions for other spatial objects",
+  journal  = "Environmetrics",
+  volume   = "35",
+  number   = "5",
+  pages    = "e2848",
+  year     = "2024",
+  doi      = "10.1002/env.2848",
+  textVersion = "Jesper Muren, Vilhelm Niklasson, Dmitry Otryakhin and Maxim Romashin (2024). Automatic deforestation detectors based on frequentist statistics and their extensions for other spatial objects. Environmetrics, 35(5), e2848. https://doi.org/10.1002/env.2848."
+)
